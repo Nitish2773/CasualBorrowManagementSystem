@@ -143,7 +143,7 @@ CasualBorrowManagementSystem/
 ## 📸 Screenshots 
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (233).png" width="300"/>
+  <img src="assets/Screenshot (233).png" width="300"/>
   <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (234).png" width="300"/>
 </p>
 
