@@ -148,38 +148,38 @@ CasualBorrowManagementSystem/
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (235).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (236).png" width="300"/>
+  <img src="assets/Screenshot (235).png" width="400"/>
+  <img src="assets/Screenshot (236).png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (237).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (238).png" width="300"/>
+  <img src="assets/Screenshot (237).png" width="400"/>
+  <img src="assets/Screenshot (238).png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (239).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (240).png" width="300"/>
+  <img src="assets/Screenshot (239).png" width="400"/>
+  <img src="assets/Screenshot (240).png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (241).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (242).png" width="300"/>
+  <img src="assets/Screenshot (241).png" width="400"/>
+  <img src="assets/Screenshot (242).png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (243).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (244).png" width="300"/>
+  <img src="assets/Screenshot (243).png" width="400"/>
+  <img src="assets/Screenshot (244).png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (245).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (246).png" width="300"/>
+  <img src="assets/Screenshot (245).png" width="400"/>
+  <img src="assets/Screenshot (246).png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (247).png" width="300"/>
-  <img src="D:/Spring-Tool-Suite-Workspace/CasualBorrowManagementSystem/assets/Screenshot (248).png" width="300"/>
+  <img src="assets/Screenshot (247).png" width="400"/>
+  <img src=assets/Screenshot (248).png" width="400"/>
 </p>
 
 
